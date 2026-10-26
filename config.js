@@ -1,0 +1,1 @@
+window.KA_CONFIG = { supabaseUrl: "https://uxdxakxeunwdpzuknzqn.supabase.co", supabaseAnonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InV4ZHhha3hldW53ZHB6dWtuenFuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTI4ODQ0NDEsImV4cCI6MjEwODQ2MDQ0MX0.pOX5pSJ4w5t2k2OsDE_Hh-BJex9zxcSvyHOmJygEUuY" };
