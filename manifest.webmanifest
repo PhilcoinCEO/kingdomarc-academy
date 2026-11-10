@@ -1,0 +1,24 @@
+{
+  "name": "Kingdom ARC Apostolic School of Leadership",
+  "short_name": "Kingdom ARC",
+  "description": "Kingdom ARC Ministries formation school: Foundations, the 90-day fivefold formation and verifiable credentials. English and Spanish.",
+  "id": "/",
+  "start_url": "/#home",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1120",
+  "theme_color": "#0b1120",
+  "lang": "en",
+  "categories": ["education", "lifestyle"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Foundations", "url": "/#foundations" },
+    { "name": "GLOR AI", "url": "/#glor" },
+    { "name": "Verify a credential", "url": "/#verify" }
+  ]
+}
